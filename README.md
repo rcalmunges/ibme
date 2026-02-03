@@ -5,7 +5,6 @@
 ![React](https://img.shields.io/badge/React-18.2-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green?style=for-the-badge&logo=supabase)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-3.4-38b2ac?style=for-the-badge&logo=tailwind-css)
 
 > **Uma Solução Full-Stack Serverless** completa para gestão eclesiástica, comunicação comunitária e transparência financeira.
 
